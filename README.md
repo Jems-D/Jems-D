@@ -16,7 +16,7 @@
 ### 🛠️ Technical Skills
 
 - **Techstacj**  
-  ![]https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=%23ffffff
+  ![C# Badge]https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=%23ffffff
 
   - ASP.NET MVC  
   - ASP.NET Core Web API  
