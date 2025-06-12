@@ -21,8 +21,7 @@
 
 
 ### 📫 Connect with Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%25230077B5?style=flat&logo=linkedin&logoColor=white&color=%230a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftimothyvillones%2F)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%25230077B5?style=flat&logo=linkedin&logoColor=white&color=%230a66c2)](https://www.linkedin.com/in/timothyvillones/)
 ---
 
 ### ⚡ Fun Fact
