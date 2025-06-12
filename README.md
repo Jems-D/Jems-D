@@ -16,11 +16,11 @@
 ### 🛠️ Technical Skills
 
 - **Techstack**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=%23ffffff) ![Javascript](https://img.shields.io/badge/JAVASCRIPT-239120?style=for-the-badge&logo=javascript&logoColor=%23FFFF00&color=%231c1c1e) ![Typescript](https://img.shields.io/badge/TYPESCRIPT-239120?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF&labelColor=%230000FF&color=%23FFFFFF) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=%23ffffff) ![Javascript](https://img.shields.io/badge/JAVASCRIPT-239120?style=for-the-badge&logo=javascript&logoColor=%23FFFF00&color=%231c1c1e) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
 ### 📫 Connect with Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothyvillones/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%25230077B5?style=flat&logo=linkedin&logoColor=white&color=%230a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftimothyvillones%2F)
 
 ---
 
