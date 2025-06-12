@@ -15,8 +15,9 @@
 
 ### 🛠️ Technical Skills
 
-- **Languages/Frameworks:**  
-  - C#  
+- **Techstacj**  
+  ![]https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=%23ffffff
+
   - ASP.NET MVC  
   - ASP.NET Core Web API  
   - React (TypeScript)
